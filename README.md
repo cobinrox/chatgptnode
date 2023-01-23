@@ -3,7 +3,8 @@ This is a sample Node.JS project that exercises the ChatGPT API from the command
 
 ## Prerequirements
 1.  To run this program you will need Node.JS installed on your machine
-2.  You will need an OpenAI API key
+2.  IMPORTANT! You will need an OpenAI API key
+3.  You will need internet access to the ChatGPT server
 
 ## To Download
 `git clone git@github.com:cobinrox/chatgptnode.git`
@@ -11,7 +12,7 @@ This is a sample Node.JS project that exercises the ChatGPT API from the command
 ## To Prepare
 `cd chatgptnode`
 `npm install`
-Copy your OpenAI key into the file `.env`
+IMPORTANT!!  Copy your OpenAI key into the file `.env`
 
 ## To Execute
 `node index.js`
