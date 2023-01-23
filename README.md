@@ -18,7 +18,7 @@ IMPORTANT!!  Copy your OpenAI key into the file `.env`
 `node index.js`
 
 ## Sample Execution
-`/Users/coxr/gitprojects/chatgptnode $ node index.js`  
+`/Users/mb/gitprojects/chatgptnode $ node index.js`  
 `Configuring OpenAIApi ...`  
 `... successfully configured OpenAIApi`  
 ` `  
