@@ -10,8 +10,8 @@ This is a sample Node.JS project that exercises the ChatGPT API from the command
 `git clone git@github.com:cobinrox/chatgptnode.git`
 
 ## To Prepare
-`cd chatgptnode`
-`npm install`
+`cd chatgptnode`  
+`npm install`  
 IMPORTANT!!  Copy your OpenAI key into the file `.env`
 
 ## To Execute
